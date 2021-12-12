@@ -17,4 +17,4 @@ def even_fibonacci():
     return ans
 
 if __name__ == '__main__':
-    print((even_fibonacci()))
+    print(even_fibonacci())
