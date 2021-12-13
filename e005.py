@@ -29,10 +29,3 @@ def smallest_multiple_fast(n):
 if __name__ == '__main__':
     print(smallest_multiple(10))
     print(smallest_multiple_fast(20))
-
-        
-
-
-
-
-
