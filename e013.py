@@ -101,4 +101,4 @@ number = [
     53503534226472524250874054075591789781264330331690,
 ]
 
-print(str(sum(i for i in number))[:10])
+print(str(sum(i for i in number))[:10]) 
