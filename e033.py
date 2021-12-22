@@ -12,4 +12,4 @@ for i in range(1, 100):
             else:
                 total *= i/j
 
-print(Fraction(total).limit_denominator(1000).denominator)
+print(Fraction(total).limit_denominator(1000).denominator) 
